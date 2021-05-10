@@ -14,7 +14,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"test-room18"
+                 "value":"test-room-18"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -365,7 +365,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":90,
          "x":0,
          "y":0
